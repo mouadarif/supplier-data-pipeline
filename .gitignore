@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.env
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.env
