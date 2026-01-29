@@ -1,0 +1,11 @@
+input_id,resolved_siret,official_name,confidence_score,match_method,alternatives,found_website,found_address,found_phone,found_email,country,city,postal_code,search_method,error
+402BSYSTEM00,,,0.0,NOT_FOUND,[],,,,,,,,,
+403CAMENAG00,49815549800047,3 C AMENAGEMENT,0.95,STRICT_LOCAL,[],,,,,,,,,
+403CCLIMATIS,82431185600051,3C CLIMATISATION,0.95,STRICT_LOCAL,[],,,,,,,,,
+403CIP000000,88063223700025,3C IP CONNECT,0.95,STRICT_LOCAL,[],,,,,,,,,
+40512IT00000,,,0.0,NOT_FOUND,[],,,,,,,,,
+40ABALONE000,,,0.0,NOT_FOUND,[],,,,,,,,,
+40ABC ABONT0,38830863700056,REUSSIR,1.0,DIRECT_ID,[],,,,,,,,,
+40ABCD000000,,,0.0,NOT_FOUND,[],,,,,,,,,
+40ABTRANSP00,,,0.0,NOT_FOUND,[],,,,,,,,,
+40ACAUPEL000,52963857900035,ACAUPEL,0.7,CALCULATED,"[""81847609500026""]",,,,,,,,,

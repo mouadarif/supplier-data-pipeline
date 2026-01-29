@@ -1,0 +1,11 @@
+.env
+*.xlsx
+*.csv
+*.sqlite*
+*.json
+*.txt
+*.log
+*.err
+*.out
+*.tmp
+*.temp

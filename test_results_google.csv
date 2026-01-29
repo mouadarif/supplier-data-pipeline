@@ -1,0 +1,6 @@
+input_id,resolved_siret,official_name,confidence_score,match_method,alternatives,found_website,found_address,found_phone,found_email,country,city,postal_code,search_method,error
+40ABCLOGISTI,,ABC LOGISTICS,0.95,GEMINI_WEB_SEARCH,,https://www.abclogistics.nl/,"Transportweg 22, 2685 DB Poeldijk, Netherlands",+31174240684,info@abclogistics.nl,NLD,POELDIJK,2685DC,GEMINI_WEB_SEARCH,
+400000000000,,AGUACATERA,0.95,GEMINI_WEB_SEARCH,,https://www.aguacateramalaguena.com/,"C. de la Vega, 2, 29700 Vélez-Málaga, Málaga, Spain",+34 952 50 37 99,info@aguacateramalaguena.com,ESP,MALAGA,,GEMINI_WEB_SEARCH,
+40ADELAN0000,,ADELANTEX NV,1.0,GEMINI_WEB_SEARCH,,https://www.adelantex.com,"Nieuwbaan 110, 1820 Steenokkerzeel, Belgium",+3222549999,info@adelantex.com,BEL,STEENOKKERZEEL,,GEMINI_WEB_SEARCH,
+40AFBA000000,,AFBA,0.9,GEMINI_WEB_SEARCH,,,"Rua Rio Grande do Norte, 1530 - Vila Operária, Avaré - SP, 18705-020, Brazil",+55 14 3732-9686,afba_contabil@yahoo.com.br,BRA,AVARE,,GEMINI_WEB_SEARCH,
+40AFRIAG0000,,AFRIAG,0.9,GEMINI_WEB_SEARCH,,https://www.afriag.com/,"The Clock House, 28-30 High Street, Welwyn, Hertfordshire, AL6 9EQ, United Kingdom",,info@afriag.com,GBR,STAFFORD,,GEMINI_WEB_SEARCH,
